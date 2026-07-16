@@ -33,3 +33,5 @@ A second version using loops and counters is also included for comparison.
 
 ---
 
+## Author
+**Godfred Appiah Baah**
